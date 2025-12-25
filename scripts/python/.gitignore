@@ -1,5 +1,0 @@
-__pycache__/
-*.py[cod]
-.env
-output.json
-extracted_data.csv
