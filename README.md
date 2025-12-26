@@ -1,20 +1,27 @@
-# 🎌 Kuma-DoTech.dev
-### Professional Web Automation & Data Engineering Studio
+# Kuma-DoTech.Dev 🐾
+### Custom Automation & Data Architecture Solutions
 
-Welcome to my technical workspace. This repository serves as a hub for high-efficiency tools and stealth automation scripts.
+Professional-grade automation tools and data processing utilities designed for precision, efficiency, and scalability.
 
 ---
 
 ## 🛠️ Specialized In:
-- **Stealth Automation:** Python-based scrapers with human-behavior simulation.
-- **Web Enhancements:** Custom JavaScript/Tampermonkey tools for productivity.
-- **Data Engineering:** Clean, structured, and fast data extraction.
+- **Stealth Automation:** Python-based scrapers with human-like behavior patterns.
+- **Web Enhancements:** Custom JavaScript/Tampermonkey tools for hyper-productivity.
+- **Data Engineering:** Clean, structured, and high-speed data extraction and transformation.
 
 ## 🚀 Current Focus:
-- Developing non-detectable web interaction modules.
-- Universal data parsing tools.
+- Developing non-detectable web interaction modules (Bypass & Anti-Fingerprinting).
+- Universal data parsing tools (JSON, CSV, SQL).
+- High-performance system monitoring.
 
 ---
-*Identity & Privacy focused. Building the bridge between manual tasks and intelligent automation.*
 
+## 📁 Project Structure:
+- `/scripts/python`: Core automation and data processing engines.
+- `/scripts/javascript`: Browser-side automation and UI enhancement tools.
+- `/docs`: Technical implementation guides and API documentation.
+
+---
+*Precision. Automation. Reliability.*
 *System optimized for high-performance development.*
