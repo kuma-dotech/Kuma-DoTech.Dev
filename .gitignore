@@ -1,5 +1,5 @@
-__pycache__/
-*.py[cod]
+node_modules/
 .env
-output.json
-extracted_data.csv
+*.log
+__pycache__/
+.DS_Store
